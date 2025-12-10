@@ -97,11 +97,15 @@ Undertale
 
 👨‍💻 DESENVOLVEDORES
 
-Ulisses Araújo – Engenheiro de Software, UX Designer e Roteirista
-Carlos Eduardo – Game Designer, Roteirista e Programador
-Raimundo Barbosa – Programador
-Marcos Vinícius – Roteirista
-Gil Gonçalves – Programador
+- Ulisses Araújo – Engenheiro de Software, UX Designer e Roteirista
+  
+- Carlos Eduardo – Game Designer, Roteirista e Programador
+  
+- Raimundo Barbosa – Programador
+  
+- Marcos Vinícius – Roteirista
+  
+- Gil Gonçalves – Programador
 
 ---
 
